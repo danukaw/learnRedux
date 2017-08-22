@@ -1445,7 +1445,7 @@
 /* 233 */
 /***/ (function(module, exports, __webpack_require__) {
 
-	eval("\"use strict\";\n\nvar redux = __webpack_require__(234);\n\nconsole.log(\"starting redux exmples\");//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hcHAvcmVkdXgtZXhhbXBsZS5qc3g/YjA4OSJdLCJuYW1lcyI6WyJyZWR1eCIsInJlcXVpcmUiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBLElBQUlBLFFBQVEsbUJBQUFDLENBQVEsR0FBUixDQUFaOztBQUVBQyxRQUFRQyxHQUFSLENBQVksd0JBQVoiLCJmaWxlIjoiMjMzLmpzIiwic291cmNlc0NvbnRlbnQiOlsidmFyIHJlZHV4ID0gcmVxdWlyZSgncmVkdXgnKTtcclxuXHJcbmNvbnNvbGUubG9nKFwic3RhcnRpbmcgcmVkdXggZXhtcGxlc1wiKTtcclxuXG5cblxuLy8gV0VCUEFDSyBGT09URVIgLy9cbi8vIC4vYXBwL3JlZHV4LWV4YW1wbGUuanN4Il0sInNvdXJjZVJvb3QiOiIifQ==");
+	eval("\"use strict\";\n\nvar redux = __webpack_require__(234);\n\nconsole.log(\"starting redux exmples 2\");//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9hcHAvcmVkdXgtZXhhbXBsZS5qc3g/YjA4OSJdLCJuYW1lcyI6WyJyZWR1eCIsInJlcXVpcmUiLCJjb25zb2xlIiwibG9nIl0sIm1hcHBpbmdzIjoiOztBQUFBLElBQUlBLFFBQVEsbUJBQUFDLENBQVEsR0FBUixDQUFaOztBQUVBQyxRQUFRQyxHQUFSLENBQVksMEJBQVoiLCJmaWxlIjoiMjMzLmpzIiwic291cmNlc0NvbnRlbnQiOlsidmFyIHJlZHV4ID0gcmVxdWlyZSgncmVkdXgnKTtcclxuXHJcbmNvbnNvbGUubG9nKFwic3RhcnRpbmcgcmVkdXggZXhtcGxlcyAyXCIpO1xyXG5cblxuXG4vLyBXRUJQQUNLIEZPT1RFUiAvL1xuLy8gLi9hcHAvcmVkdXgtZXhhbXBsZS5qc3giXSwic291cmNlUm9vdCI6IiJ9");
 
 /***/ }),
 /* 234 */

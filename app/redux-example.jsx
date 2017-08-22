@@ -1,3 +1,3 @@
 var redux = require('redux');
 
-console.log("starting redux exmples");
+console.log("starting redux exmples 2");
